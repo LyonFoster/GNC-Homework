@@ -1,0 +1,9 @@
+## ignoring some of the stuff that comes with pycharm
+
+__pychache__
+
+venv/
+
+eigen-3.3.7/
+
+a.out

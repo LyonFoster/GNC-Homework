@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9ced2e3-dca2-45d5-a723-7bd06e12f0aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cDzprxCjeayBnLtwjOEng62dng" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/venv/lib/python3.8/site-packages" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/venv/lib/python3.8/site-packages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.attitudeIntegration">
+    <configuration name="attitudeIntegration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mastenPrototypes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/attitudeIntegration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="savageFunctions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mastenPrototypes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/savageFunctions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.attitudeIntegration" />
+        <item itemvalue="Python.savageFunctions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9ced2e3-dca2-45d5-a723-7bd06e12f0aa" name="Default Changelist" comment="" />
+      <created>1590078137040</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590078137040</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590078477277">
+      <screen x="0" y="23" width="1280" height="752" />
+    </state>
+    <state x="104" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.752@0.23.1280.752" timestamp="1590078477277" />
+    <state width="1259" height="128" key="GridCell.Tab.0.bottom" timestamp="1592263148166">
+      <screen x="0" y="23" width="1280" height="752" />
+    </state>
+    <state width="1259" height="128" key="GridCell.Tab.0.bottom/0.23.1280.752@0.23.1280.752" timestamp="1592263148166" />
+    <state width="1259" height="128" key="GridCell.Tab.0.center" timestamp="1592263148163">
+      <screen x="0" y="23" width="1280" height="752" />
+    </state>
+    <state width="1259" height="128" key="GridCell.Tab.0.center/0.23.1280.752@0.23.1280.752" timestamp="1592263148163" />
+    <state width="1259" height="128" key="GridCell.Tab.0.left" timestamp="1592263148162">
+      <screen x="0" y="23" width="1280" height="752" />
+    </state>
+    <state width="1259" height="128" key="GridCell.Tab.0.left/0.23.1280.752@0.23.1280.752" timestamp="1592263148162" />
+    <state width="1259" height="128" key="GridCell.Tab.0.right" timestamp="1592263148164">
+      <screen x="0" y="23" width="1280" height="752" />
+    </state>
+    <state width="1259" height="128" key="GridCell.Tab.0.right/0.23.1280.752@0.23.1280.752" timestamp="1592263148164" />
+    <state width="1259" height="219" key="GridCell.Tab.1.bottom" timestamp="1590516241411">
+      <screen x="0" y="23" width="1280" height="752" />
+    </state>
+    <state width="1259" height="219" key="GridCell.Tab.1.bottom/0.23.1280.752@0.23.1280.752" timestamp="1590516241411" />
+    <state width="1259" height="219" key="GridCell.Tab.1.center" timestamp="1590516241411">
+      <screen x="0" y="23" width="1280" height="752" />
+    </state>
+    <state width="1259" height="219" key="GridCell.Tab.1.center/0.23.1280.752@0.23.1280.752" timestamp="1590516241411" />
+    <state width="1259" height="219" key="GridCell.Tab.1.left" timestamp="1590516241411">
+      <screen x="0" y="23" width="1280" height="752" />
+    </state>
+    <state width="1259" height="219" key="GridCell.Tab.1.left/0.23.1280.752@0.23.1280.752" timestamp="1590516241411" />
+    <state width="1259" height="219" key="GridCell.Tab.1.right" timestamp="1590516241411">
+      <screen x="0" y="23" width="1280" height="752" />
+    </state>
+    <state width="1259" height="219" key="GridCell.Tab.1.right/0.23.1280.752@0.23.1280.752" timestamp="1590516241411" />
+    <state x="141" y="23" key="SettingsEditor" timestamp="1591383339522">
+      <screen x="0" y="23" width="1280" height="752" />
+    </state>
+    <state x="141" y="23" key="SettingsEditor/0.23.1280.752@0.23.1280.752" timestamp="1591383339522" />
+    <state x="317" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1591123413018">
+      <screen x="0" y="23" width="1280" height="752" />
+    </state>
+    <state x="317" y="211" key="com.intellij.ide.util.TipDialog/0.23.1280.752@0.23.1280.752" timestamp="1591123413018" />
+    <state x="221" y="23" width="837" height="752" key="find.popup" timestamp="1590078740061">
+      <screen x="0" y="23" width="1280" height="752" />
+    </state>
+    <state x="221" y="23" width="837" height="752" key="find.popup/0.23.1280.752@0.23.1280.752" timestamp="1590078740061" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
