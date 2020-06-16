@@ -1,7 +1,8 @@
 ## ignoring some of the stuff that comes with pycharm
 
-mastenPrototypes/__pychache__
+mastenPrototypes/__pycache__
 mastenPrototypes/.idea
+*.idea
 venv/
 eigen
 eigen-3.3.7/
